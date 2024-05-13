@@ -1,7 +1,3 @@
-![Voll - Mobile](https://repository-images.githubusercontent.com/604322042/0b63dd66-5a29-4646-9c15-a9f490bb3742)
-
-# Voll #
-
 Uma aplicação para consultas médicas usando Native Base e TypeScript no React Native.
 
 ## 🔨 Funcionalidades da aplicação ##
